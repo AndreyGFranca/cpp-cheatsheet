@@ -31,3 +31,6 @@
 *.exe
 *.out
 *.app
+*.application/x-executable
+*.application
+*.x-executable
